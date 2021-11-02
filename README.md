@@ -1,5 +1,5 @@
 I live in spain without s.
-im trying to lern golang ang javascript
+- im trying to lern golang and javascript
 
 <!---
 AldairSoraka/AldairSoraka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
